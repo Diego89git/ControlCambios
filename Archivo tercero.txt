@@ -1,3 +1,4 @@
 Realizando configuraciones para CC-5
 Cambiando datos para aplicar a CC-1 Aun sin funcionar
 Editando desde github
+Cambiando la forma de llamar al nombre commit
